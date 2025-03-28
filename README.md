@@ -15,14 +15,3 @@ This repository contains resources for building and managing Azure Data Engineer
 ✔️ Implement **Azure Data Factory, Databricks, and PySpark** for data engineering.  
 ✔️ Optimize **scalable and automated data workflows**.  
 
-## 📌 Getting Started
-```sh
-git clone https://github.com/yourusername/azure-data-engineering.git
-cd azure-data-engineering
-```
-1. Clone this repository.
-2. Explore the available resources.
-3. Integrate with Azure services and deploy data solutions.
-
-🚀 **Enhance your Azure Data Engineering capabilities with this project!**
-
